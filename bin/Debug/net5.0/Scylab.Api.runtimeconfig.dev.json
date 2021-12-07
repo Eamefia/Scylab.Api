@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elimens\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elimens\\.nuget\\packages"
+    ]
+  }
+}
